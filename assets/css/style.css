@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo img {
+    width: 100px;
+    height: 30px;
+}
+
+.oferta {
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #28a745;
+}
+
+.footer img {
+    width: 85px;
+    height: 25px;
+}
